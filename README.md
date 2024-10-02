@@ -1,7 +1,7 @@
 ## boas vindas ao meu perfil
 
 meu nome é Jimmy
-desenhista pobre
+(desenhista pobre)
 
 .Estou estudando na [Alura](https://www.alura.com.br)
 
